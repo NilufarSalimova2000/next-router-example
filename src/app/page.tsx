@@ -62,7 +62,7 @@ export default function Home() {
               </div>
               <ul className="feedback_list">
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/1"}>
+                  <Link href={`/details/${1}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112
@@ -76,7 +76,7 @@ export default function Home() {
                   </Link>
                 </li>
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/2"}>
+                  <Link href={`/details/${2}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112
@@ -90,7 +90,7 @@ export default function Home() {
                   </Link>
                 </li>
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/3"}>
+                  <Link href={`/details/${3}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112
@@ -104,7 +104,7 @@ export default function Home() {
                   </Link>
                 </li>
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/4"}>
+                  <Link href={`/details/${4}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112
@@ -118,7 +118,7 @@ export default function Home() {
                   </Link>
                 </li>
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/5"}>
+                  <Link href={`/details/${5}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112
@@ -132,7 +132,7 @@ export default function Home() {
                   </Link>
                 </li>
                 <li className="w-[825px] rounded-[10px] bg-[#fff] py-[28px] px-[32px] flex items-center justify-between mb-[20px]">
-                  <Link href={"/details/6"}>
+                  <Link href={`/details/${6}`}>
                     <div className="flex items-start gap-[40px]">
                       <p className="font-bold text-[13px] tracking-[-0.01em] text-[#3a4374] text-center rounded-[10px] bg-[#f2f4fe] px-[9px] pb-[8px] pt-[14px] inline-block">
                         112

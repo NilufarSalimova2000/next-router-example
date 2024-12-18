@@ -1,11 +1,11 @@
 
-const TaskDetail = () => {
+const SingleDetail = ({params} : {params: {id: string}}) => {
 
   return (
     <div className="container">
-      <p>Feedback</p>
+      <p>Feedback {params.id}</p>
     </div>
   );
 };
 
-export default TaskDetail;
+export default SingleDetail;
